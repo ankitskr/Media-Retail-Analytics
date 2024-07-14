@@ -1,4 +1,4 @@
-# Exploratory and Predictive Analytics Using Chinook Database
+# Exploratory and Predictive Analysis in Media Retail
 
 ## Project Overview
 This project involves a detailed analysis of digital media store database - The Chinook Database - containing information about employees, customers, purchases, and media tracks. The objective is to derive insights into customer behavior, optimize marketing strategies, and enhance decision-making processes through detailed data analysis, predictive modeling, and machine learning.
