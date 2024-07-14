@@ -1,4 +1,4 @@
-# Exploratory and Predictive Analysis in Media Retail
+# Draft: Exploratory and Predictive Analysis in Media Retail
 
 ## Project Overview
 This project involves a detailed analysis of digital media store database - The Chinook Database - containing information about employees, customers, purchases, and media tracks. The objective is to derive insights into customer behavior, optimize marketing strategies, and enhance decision-making processes through detailed data analysis, predictive modeling, and machine learning.
@@ -22,7 +22,7 @@ This project involves a detailed analysis of digital media store database - The 
 
 ## Working demonstration
 A working demonstration is provided in the jupyter notebook.
-- Exploratory analysis using SQLite: [notebooks/exploratory_analysis.ipynb](https://github.com/ankitskr/SQL--draft/blob/main/notebooks/exploratory_analysis.ipynb)
+- Exploratory analysis using SQLite: [notebooks/exploratory_analysis.ipynb](https://github.com/ankitskr/Media-Retail-Analytics/blob/main/notebooks/exploratory_analysis.ipynb)
 
 
 ## Acknowledgments
